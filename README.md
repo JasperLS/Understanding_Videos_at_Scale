@@ -3,4 +3,4 @@ This repository includes the notebook of „Understanding Videos at Scale: How t
 
 Two versions are available:
 Understanding_Videos_at_Scale: A version, which is constantly updated
-Understanding_Videos_at_Scale_JBD_Submission: The original version at time of submission
+Understanding_Videos_at_Scale_JBD_Submission_Version: The original version at time of submission
