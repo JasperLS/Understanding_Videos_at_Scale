@@ -7,7 +7,7 @@ Two versions are available:
 
 # Papers using our video mining tool:
 
-- McGranaghan, M., Liaukonyte, J., & Wilbur, K. C. (2022). How Viewer Tuning, Presence, and Attention Respond to Ad Content and Predict Brand Search Lift. Marketing Science. Available at: https://pubsonline.informs.org/doi/abs/10.1287/mksc.2021.1344.
+- McGranaghan, M., Liaukonyte, J., & Wilbur, K. C. (2022). How Viewer Tuning, Presence, and Attention Respond to Ad Content and Predict Brand Search Lift. *Marketing Science*. Available at: https://pubsonline.informs.org/doi/abs/10.1287/mksc.2021.1344.
 - Shachar, R., Muchnik, L, & Netzer, O. (2022). Sell me a story: On the role of conflict, and other story elements, in ads’ success (August 24, 2022). Available at SSRN: https://ssrn.com/abstract=4199334.
 - Deng, S., Prasse, P., Reich, D. R., Dziemian, S., Stegenwallner-Schütz, M., Krakowczyk, D., ... & Jäger, L. A. (2022). Detection of ADHD based on Eye Movements during Natural Viewing. arXiv preprint arXiv:2207.01377. Available at: https://arxiv.org/pdf/2207.01377.pdf.
 
