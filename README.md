@@ -8,6 +8,7 @@ Two versions are available:
 # Papers using our video mining tool:
 
 - McGranaghan, M., Liaukonyte, J., & Wilbur, K. C. (2022). How Viewer Tuning, Presence, and Attention Respond to Ad Content and Predict Brand Search Lift. *Marketing Science*. Available at: https://pubsonline.informs.org/doi/abs/10.1287/mksc.2021.1344.
+- Yang, G., Zhang, Y., & Liu, H. (2024). Frontiers: Pirating Foes or Creative Friends? Effects of User-Generated Condensed Clips on Demand for Streaming Services. *Marketing Science*. Available at: https://doi.org/10.1287/mksc.2023.0031.
 - Rizzo, G. L. C, Berger, J., Angelis, M., & Pozharliev, R. (2023). How Sensory Language Shapes Influencer’s Impact. *Journal of Consumer Research*. Available at: https://academic.oup.com/jcr/advance-article/doi/10.1093/jcr/ucad017/7072465.
 - Klostermann, J., Meißner, M., Max, A., & Decker, R. (2023). Presentation of celebrities’ private life through visual social media. *Journal of Business Research*, 156, 113524. Available at: https://www.sciencedirect.com/science/article/pii/S0148296322009894.
 - Shachar, R., Muchnik, L, & Netzer, O. (2022). Sell me a story: On the role of conflict, and other story elements, in ads’ success (August 24, 2022). Available at SSRN: https://ssrn.com/abstract=4199334.
